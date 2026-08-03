@@ -2,6 +2,8 @@
 name: qianjin-wechat-analyzer
 description: "专业公众号运营分析工具。输入公众号名称或ID，自动分析账号定位、抓取文章数据、深度解析内容结构与写作风格，输出包含文章数据分析、选题建议、写作方向、账号运营计划的专业分析报告。适用于公众号运营者、内容创作者、品牌营销人员。触发词：公众号分析、公众号运营、公众号诊断、账号分析、公众号选题、公众号复盘、公众号数据、文章分析、公众号运营建议。"
 version: "1.3"
+category: 数据分析
+platforms: [workbuddy, claude-code, cursor, windsurf, codex]
 author: qianjin
 tags:
   - wechat
